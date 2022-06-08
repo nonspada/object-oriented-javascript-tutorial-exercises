@@ -58,7 +58,7 @@ $ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
 4) Start the tutorial/exercises by running the following command from the root of the project:
 
 ```sh
-$ learnpack run
+$ learnpack start
 ```
 
 ## How are the exercises organized?

@@ -47,7 +47,7 @@ $ learnpack plugins:install learnpack-node && npm i jest@24.8.0 -g
 4) Inicializa el tutorial/ejercicios ejecutanto el siguiente comando en la raíz del proyecto:
 
 ```sh
-$ learnpack run
+$ learnpack start
 ```
 
 Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
